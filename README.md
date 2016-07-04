@@ -5,6 +5,17 @@
 
 # Fisherman Links
 
+## Bootstrap
+
+```fish
+# Ensure fisherman and plugins are installed
+if not test -f $HOME/.config/fish/functions/fisher.fish
+  echo "==> Fisherman not found.  Installing."
+  curl -sLo ~/.config/fish/functions/fisher.fish --create-dirs git.io/fisher
+  fisher -v
+end
+```
+
 ## Migration
 
 * [Migration instructions from oh-my-fish to fisherman? #223](https://github.com/fisherman/fisherman/issues/223)
