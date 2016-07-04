@@ -1,3 +1,8 @@
+[slack-link]: https://fisherman-wharf.herokuapp.com
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+
+[![Slack][slack-badge]][slack-link]
+
 # Fisherman Links
 
 ## Migration
