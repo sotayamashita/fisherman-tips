@@ -16,6 +16,14 @@ if not test -f $HOME/.config/fish/functions/fisher.fish
 end
 ```
 
+## Test
+
+**test if completion works** by @Markcial
+
+```fish
+TEST "Should return ask-pass param" complete -C"foo --ask-p" = "foo --ask-pass" end`
+```
+
 ## Migration
 
 * [Migration instructions from oh-my-fish to fisherman? #223](https://github.com/fisherman/fisherman/issues/223)
