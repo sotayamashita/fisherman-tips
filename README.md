@@ -3,7 +3,7 @@
 
 [![Slack][slack-badge]][slack-link]
 
-# Fisherman Links
+# Fisherman Tips
 
 ## Bootstrap
 
