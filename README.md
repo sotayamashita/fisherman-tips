@@ -18,7 +18,7 @@ end
 
 ## Test
 
-**test if completion works** by @Markcial
+**test if completion works** by [@Markcial](https://github.com/Markcial)
 
 ```fish
 TEST "Should return ask-pass param" complete -C"foo --ask-p" = "foo --ask-pass" end`
