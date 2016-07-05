@@ -5,6 +5,13 @@
 
 # Fisherman Tips
 
+## Table of Contents
+
+* [Bootstrap](#bootstrap)
+* [Test](#test)
+* [Migration](#migration)
+
+
 ## Bootstrap
 
 ```fish
