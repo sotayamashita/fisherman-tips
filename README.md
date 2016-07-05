@@ -26,7 +26,14 @@ TEST "Should return ask-pass param" complete -C"foo --ask-p" = "foo --ask-pass" 
 
 ## Migration
 
-* [Migration instructions from oh-my-fish to fisherman? #223](https://github.com/fisherman/fisherman/issues/223)
+**Migrate from oh-my-fish to fisherman**
+
+1. Just install fisherman
+2. If you happen to be also running any fisherman before 2.0 alongside omf
+3. Add omf plugin names to ~/.config/fish/fishfile and run fisher
+4. Remove omf directories and files
+
+It has been discussed on [Migration instructions from oh-my-fish to fisherman? #223](https://github.com/fisherman/fisherman/issues/223).
 
 ## License
 
