@@ -7,7 +7,8 @@
 
 Translations:
 
-Japanese: "[🐟 fish-shell と fihserman の tips](http://qiita.com/sotayamashita/items/61d49431053c44f01714)" on Qiita
+* Japanese: "[🐟 fish-shell と fihserman の tips](http://qiita.com/sotayamashita/items/61d49431053c44f01714)" on Qiita
+
 
 ## Table of Contents
 
@@ -27,6 +28,7 @@ if not test -f $HOME/.config/fish/functions/fisher.fish
 end
 ```
 
+
 ## Test
 
 **Test if completion works** by [@Markcial](https://github.com/Markcial)
@@ -34,6 +36,7 @@ end
 ```fish
 TEST "Should return ask-pass param" complete -C"foo --ask-p" = "foo --ask-pass" end`
 ```
+
 
 ## Migration
 
@@ -45,6 +48,7 @@ TEST "Should return ask-pass param" complete -C"foo --ask-p" = "foo --ask-pass" 
 4. Remove omf directories and files
 
 It has been discussed on [Migration instructions from oh-my-fish to fisherman? #223](https://github.com/fisherman/fisherman/issues/223).
+
 
 ## License
 
