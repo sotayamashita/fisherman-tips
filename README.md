@@ -7,7 +7,7 @@
 
 Translations:
 
-Japanese: [🐟 fish-shell と fihserman の tips](http://qiita.com/sotayamashita/items/61d49431053c44f01714) on Qiita
+Japanese: "[🐟 fish-shell と fihserman の tips](http://qiita.com/sotayamashita/items/61d49431053c44f01714)" on Qiita
 
 ## Table of Contents
 
